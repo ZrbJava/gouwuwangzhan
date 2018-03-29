@@ -4,7 +4,7 @@ typora-copy-images-to: images
 
 # 效果图
 
-![first 1](images/first 1.gif)
+![效果图](images/demo.gif)
 
 # fullpage 全屏插件
 
